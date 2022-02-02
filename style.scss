@@ -141,6 +141,10 @@ button {
 }
 
 @media screen and(min-width:1200px) {
+  .music-details {
+    margin-left: -4.5rem;
+  }
+
   button {
     height: 2.75rem;
   }
